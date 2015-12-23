@@ -1,6 +1,6 @@
 {
   "name": "quick-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Load, and save a config file",
   "main": "index.js",
   "directories": {
@@ -19,5 +19,9 @@
     "mkdirp-omen": "0.0.3",
     "read-json": "^0.2.0",
     "write-json": "^0.2.0"
-  }
+  },
+  "repository": {
+        "type": "git",
+        "url": "https://github.com/hollowdoor/quick_config.git"
+    }
 }
